@@ -25,7 +25,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in//",
+      url: "https://www.linkedin.com/in/syam-raza-823676164",
     },
     {
       image: "fa-twitter",
